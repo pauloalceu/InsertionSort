@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1363612788 source:c:\users\user2\desktop\insertion_sort\main.c
+	<windows.h>
+	<tchar.h>
+	<stdio.h>
+	<locale.h>
+
+1363612838 source:i:\acadêmico\mestrado ufjf\2012 - 4º trimestre\algoritmos e estrutura de dados - rodrigo silva e estênio\rodrigo silva\trabalho 1 - ordenação\insertionsort\main.c
+	<windows.h>
+	<tchar.h>
+	<stdio.h>
+	<locale.h>
+
+1363613632 source:c:\users\raquel bittar\desktop\bkp\acadêmico\mestrado ufjf\2012 - 4º trimestre\algoritmos e estrutura de dados - rodrigo silva e estênio\rodrigo silva\trabalho 3 - ordenação\insertionsort\main.c
+	<windows.h>
+	<tchar.h>
+	<stdio.h>
+	<locale.h>
+
